@@ -9,8 +9,8 @@
 
 
 <iframe src="Distribution_map.html" width="1000" height="700"></iframe>
-
-
+<br>
+<br>
 <p>It appears that most power plants are locaed in the east cost compared to Midwest and west coast. Fortunately, our data subset does not have missing values. The dataset has 17 columns, but the important variables for this study are Power plant names, Capacity of the power plant, and their status (whether they are operational or shutdown).</p> 
 
 
