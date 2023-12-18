@@ -1,3 +1,3 @@
-# Nuclear Power Plants in the U.S
-<br>Command Line GIS<br>
-<br>Masouma Tajik<br>
+# Nuclear Power Plants in the U.S <br>
+Command Line GIS<br>
+Masouma Tajik<br>
