@@ -4,7 +4,7 @@
 **Command Line GIS**<br>
 **Masouma Tajik**<br>
 
-<p>Nuclear_Power_Plants.csv contains power plants built accross the world in different countries. The dataset was retrieved from Global Power Plant Database. It has 17 columns and 803 rows. It has a list of power plants with differetn construction dates from 1968 to 2023.  For this project, we are only interested in the power plants locatd in the United States. therefore, the dataset is filtered accordingly so that it only displays power plants in the U.S.</p> 
+<p>Nuclear_Power_Plants.csv contains power plants built accross the world in different countries. The dataset was retrieved from Global Power Plant Database. It has 17 columns and 803 rows. It has a list of power plants with different construction dates from 1968 to 2023.  For this project, we are only interested in the power plants locatd in the United States. therefore, the dataset is filtered accordingly so that it only displays power plants in the U.S.</p> 
 
 
 
